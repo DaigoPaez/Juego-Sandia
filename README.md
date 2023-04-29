@@ -11,4 +11,4 @@ Este proyecto fue realizado utilizando conocimientos del paradigma de la program
 No sé si sea necesario, pero por si acaso, dejo el link de mi código desde el editor p5.js
 https://editor.p5js.org/DaigoPaez/sketches/AaaMA6ngI
 
-[![DiagramaUML](https://imgur.com/Yglh9Er)](https://imgur.com/Yglh9Er)
+[![DiagramaUML](https://i.imgur.com/Yglh9Er.png)](https://i.imgur.com/Yglh9Er.png)
