@@ -1,4 +1,4 @@
-# Juego-Sandia
+# Juego Sandía
 
 ### Este es un juego sencillo realizado con la librería p5.js de JavaScript. El objetivo de este juego es clickear las 4 moscas escondidas entre muchas semillas de una sandía, al ser clickeadas, estas moscas se irán y dejarán de contaminar tu sandía.
 
